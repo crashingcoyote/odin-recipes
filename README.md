@@ -1,2 +1,2 @@
 # odin-recipes
-Just started covering TOP's html basics, through builing this recipe webpage will showcase my html knowledge I gained so far.
+Implemented basic HTML principles while building a recipe webpage to demonstrate my current knowledge of HTML. This will serve as a solid foundation for further learning and development.
